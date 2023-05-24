@@ -321,7 +321,7 @@ void deposit_withdraw(int n, int option)
 void intro()
 {
 	cout<<"\n\n\n\t  BANK MANAGEMENT SYSTEM";
-	cout<<"\n\n\n\nMADE BY : Sangeet,Reeza,Suruchi,Ravi,Kewal";
+	cout<<"\n\n\n\nMADE BY : Sangeet";
 	cin.get();
 }
 
